@@ -1,57 +1,51 @@
-Kunibilli Tejaswini | Personal Portfolio
+Personal Portfolio Website
 
-Welcome to my personal portfolio repository!
-
-About Me
-
-I am Kunibilli Tejaswini, a B.Tech Computer Science and Engineering student at Vignan's Institute of Information Technology, Visakhapatnam.
-
-I am passionate about Frontend Development, UI/UX Design and building responsive, interactive websites.
-
-Education
-
-- College: Vignan's Institute of Information Technology
-- Degree: B.Tech - Computer Science and Engineering
-- Graduation Year: 2027
-
-Technical Skills
-
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- MySQL
-
-Interests
-
-- Frontend Development
-- UI/UX Design
-- Responsive Web Design
-- Web Technologies
-
-Technologies Used in This Portfolio
-
-- React.js
-- Tailwind CSS
-- JavaScript
-- Lucide React
+A modern, responsive and animated personal portfolio website designed to showcase my professional profile, technical skills, projects, education and certifications.
 
 Features
 
-- Responsive portfolio design
-- About Me section
-- Technical Skills section
-- Projects showcase
-- Education timeline
-- Certifications section
-- Contact section
+- Modern animated UI with responsive design.
+- About Me section.
+- Technical Skills showcase.
+- Projects portfolio.
+- Education timeline.
+- Certifications section.
+- Contact section.
+- Smooth navigation and animations.
+- Dark/Light theme support.
 
-Connect With Me
+Technologies Used
 
-- GitHub: https://github.com/ktejaswini09
-- LinkedIn: https://www.linkedin.com/in/tejaswini-kunibilli-9969bb2b6
-- Email: ktejaswini099@gmail.com
+- React.js
+- JavaScript
+- Tailwind CSS
+- Lucide React
+
+Getting Started
+
+Clone the repository:
+
+git clone https://github.com/ktejaswini09/tejaswini-portfolio.git
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npm run dev
+
+Project Structure
+
+- "src/" – Application source code and components.
+- "public/" – Static assets and public files.
+
+Author
+
+Kunibilli Tejaswini
+
+GitHub: https://github.com/ktejaswini09
 
 ---
 
-Developed by Kunibilli Tejaswini
+Built with React and Tailwind CSS.
