@@ -1,24 +1,57 @@
-# Screenshot Match
+Kunibilli Tejaswini | Personal Portfolio
 
-Implement exactly the screenshot and nothing else
+Welcome to my personal portfolio repository!
 
-This project was built with [Lovable](https://lovable.dev).
+About Me
 
-## Build with Lovable
+I am Kunibilli Tejaswini, a B.Tech Computer Science and Engineering student at Vignan's Institute of Information Technology, Visakhapatnam.
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/39833c9a-c554-421f-a46c-8ead5dd72c22).
+I am passionate about Frontend Development, UI/UX Design and building responsive, interactive websites.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+Education
 
-## Development
+- College: Vignan's Institute of Information Technology
+- Degree: B.Tech - Computer Science and Engineering
+- Graduation Year: 2027
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Technical Skills
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- MySQL
+
+Interests
+
+- Frontend Development
+- UI/UX Design
+- Responsive Web Design
+- Web Technologies
+
+Technologies Used in This Portfolio
+
+- React.js
+- Tailwind CSS
+- JavaScript
+- Lucide React
+
+Features
+
+- Responsive portfolio design
+- About Me section
+- Technical Skills section
+- Projects showcase
+- Education timeline
+- Certifications section
+- Contact section
+
+Connect With Me
+
+- GitHub: https://github.com/ktejaswini09
+- LinkedIn: https://www.linkedin.com/in/tejaswini-kunibilli-9969bb2b6
+- Email: ktejaswini099@gmail.com
+
+---
+
+Developed by Kunibilli Tejaswini
